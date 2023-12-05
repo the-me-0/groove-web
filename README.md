@@ -41,6 +41,14 @@ Project global advancement
 **Logo ;** *tiny redesign only*
  - https://www.behance.net/gallery/183702371/Spotify-Redesign
 
+## Start-up
+
+
+### Once up
+You will now need to generate an invitation link in order to create your first user.
+To do so, you have to send this post request : `curl -X POST http://localhost:3000/api/invite-link?api-key=55`
+With the api-key being the one printed at the project's start just after `npm run dev`
+
 ## How to reproduce
 
 As this project is somewhat of a variant to the spotify clone course offered by Antonio,
