@@ -1,3 +1,7 @@
+[ARCHIVED ON 06 DECEMBER 2023]
+Reason - created a new repository from forking Antonio's Spotify clone repo., and replaced the code by this one, for clarification & SEO
+
+
 # GROOVE — Self hosted spotify client
 ## Powered by NextJS and Docker
 
